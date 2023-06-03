@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-charpente/static/css/main.2a462ced.css",
+    "main.js": "/react-charpente/static/js/main.33ee1e24.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react-charpente/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Hanover-Regular.woff2": "/react-charpente/static/media/Hanover-Regular.c4197d339db61a3745d9.woff2",
+    "index.html": "/react-charpente/index.html",
+    "main.2a462ced.css.map": "/react-charpente/static/css/main.2a462ced.css.map",
+    "main.33ee1e24.js.map": "/react-charpente/static/js/main.33ee1e24.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react-charpente/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a462ced.css",
+    "static/js/main.33ee1e24.js"
+  ]
+}
