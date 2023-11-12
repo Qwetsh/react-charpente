@@ -1,0 +1,108 @@
+
+
+.chantierContainer {
+  display: flex;
+  flex-direction: column;
+  margin: 0.9rem;
+  margin-top: 8rem;
+  align-items: center;
+  background: linear-gradient(#D4AB42, #8F400D);
+  border: 1px solid #1f2027;
+  border-radius: 10px;
+}
+
+.deleteBtn {
+  display: flex;
+  margin-left: 22.5rem;
+  border-style: none;
+  border-radius: 5px;
+  background-color: #533007;
+  color: #8a7d7d;
+  font-size: 1.2rem;
+  box-shadow: -3px -2px 5px 1px rgba(255, 255, 255, 0.08),
+    3px 2px 5px 1px rgba(5, 4, 4, 0.466);
+}
+
+.clientName {
+  margin: 0;
+}
+
+hr {
+  width: 90%;
+}
+
+.mainInformations {
+  width: 90%;
+  display: flex;
+  justify-content: space-around;
+}
+
+p {
+  margin: 0px;
+}
+
+.commentary {
+  background: radial-gradient( #d8b59e, #D4AB42);
+  box-shadow: -3px -1px 5px 1px rgba(255, 255, 255, 0.08),
+    3px 1px 5px 1px rgba(5, 4, 4, 0.466);
+  border-radius: 7px;
+  width: 90%;
+  text-align: center;
+  margin: auto;
+  padding: 2px;
+  max-height: 10rem;
+  overflow: scroll;
+}
+
+.lesCalculs {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.newCoupe {
+  border-style: none;
+  background: radial-gradient( #50321f, #61490d);
+  box-shadow: -5px -3px 10px 2px rgba(255, 255, 255, 0.08),
+    5px 3px 8px 2px rgba(5, 4, 4, 0.466);
+  color: #bebebe;
+  padding: 7px;
+  border-radius: 5px;
+  margin: 5px;
+  margin-bottom: 10px;
+}
+
+/* made a classe.coupes to be able to use it in the component */
+
+.coupes {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: radial-gradient( #666422, #ddb758);
+  box-shadow: -3px -1px 5px 1px rgba(255, 255, 255, 0.08),
+    3px 1px 5px 1px rgba(5, 4, 4, 0.466);
+  border: 1px solid #1f2027;
+  border-radius: 10px;
+  width: 90%;
+  margin: 0.9rem;
+}
+
+.separation {
+  width: 70%;
+  border-color: #ebdb98;
+  display: flex;
+}
+.coupe {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 0 30px;
+  margin: 0.01rem;
+}
+.allcoupe {
+  width: 100%;
+  max-height: 14rem;
+  overflow: scroll;
+}
